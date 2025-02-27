@@ -12,7 +12,7 @@ namespace test
 
         private List<Employee> employees;
         private static int nombreEmployee;
-        static float sommeSalaire;
+        static private float sommeSalaire;
 
 
         public GestionEmployes(List<Employee> employees)
