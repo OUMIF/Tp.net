@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL Pc\\clones\\tp.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\Directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tp2\\Tp2\\Directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tp2\\Tp2\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\GestionEmployes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tp2\\Tp2\\GestionEmployes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\Employee.cs",
+              "RelativeDocumentMoniker": "Tp2\\Tp2\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\Employee.cs",
+              "RelativeToolTip": "Tp2\\Tp2\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:54:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Directeur.cs",
+              "DocumentMoniker": "C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\Directeur.cs",
+              "RelativeDocumentMoniker": "Tp2\\Tp2\\Directeur.cs",
+              "ToolTip": "C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\Directeur.cs",
+              "RelativeToolTip": "Tp2\\Tp2\\Directeur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:53:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionEmployes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\GestionEmployes.cs",
+              "RelativeDocumentMoniker": "Tp2\\Tp2\\GestionEmployes.cs",
+              "ToolTip": "C:\\Users\\DELL Pc\\clones\\tp.net\\Tp2\\Tp2\\GestionEmployes.cs",
+              "RelativeToolTip": "Tp2\\Tp2\\GestionEmployes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:51:29.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Tp2",
-    "\\Tp2\\Instances"
+    "\\Tp2\\Exercice2",
+    "\\Tp2\\Instances",
+    "\\Tp2\\obj"
   ],
-  "SelectedNode": "\\Tp2\\Instances\\Program.cs",
+  "SelectedNode": "\\Tp2\\Exercice2\\Documents.cs",
   "PreviewInSolutionExplorer": false
 }
