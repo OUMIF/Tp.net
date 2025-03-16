@@ -1,0 +1,14 @@
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\bin\Debug\net8.0\Tp2Ex2.exe
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\bin\Debug\net8.0\Tp2Ex2.deps.json
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\bin\Debug\net8.0\Tp2Ex2.runtimeconfig.json
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\bin\Debug\net8.0\Tp2Ex2.dll
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\bin\Debug\net8.0\Tp2Ex2.pdb
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\Tp2Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\Tp2Ex2.AssemblyInfoInputs.cache
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\Tp2Ex2.AssemblyInfo.cs
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\Tp2Ex2.csproj.CoreCompileInputs.cache
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\Tp2Ex2.dll
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\refint\Tp2Ex2.dll
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\Tp2Ex2.pdb
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\Tp2Ex2.genruntimeconfig.cache
+C:\Users\DELL Pc\Desktop\GINF S3\s2\s2_1\c#\Tpmoi\Tp2Ex2\Tp2Ex2\obj\Debug\net8.0\ref\Tp2Ex2.dll
